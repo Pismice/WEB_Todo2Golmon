@@ -10,6 +10,12 @@ https://www.google.com/search?q=pomodoro+timer&tbm=isch&ved=2ahUKEwivx-CJkYqDAxU
 
 Utilisation de pb simple (pocketbase ou supabase)
 
+## Fonctionalités
+- Partage de tâches entre Utilisateurs
+- Envoi de notification à la fin d'une session pomodoro
+- Filtrage des tâches
+- Drag and drop
+
 ## Différentes entités
 - Catégories (chaque tâche peut avoir 1 ou plusieurs catégories, les catégories peuvent avoir des catégories, ex: HEIG, TB, WEB, ...)
 - Tâches (unité de base de notre app, elles ont notamment un nom et une variable stockant le nombre de temps passée sur cette dernière, ainsi que facultativement le temps requis pour "terminer" cette tâche)
